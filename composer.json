@@ -1,0 +1,12 @@
+{
+    "require": {
+        "respect/validation": "dev-master",
+        "doctrine/orm": "2.*",
+        "symfony/finder": "^4.3",
+        "nette/robot-loader": "^3.2",
+        "bhaktaraz/php-rss-generator": "dev-master",
+        "smarty/smarty": "~3.1",
+        "phpmailer/phpmailer": "~6.1"
+
+    }
+}
