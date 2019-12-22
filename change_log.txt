@@ -1,0 +1,12 @@
+
+added bingsterfied css
+removed product menu from header added product_menu.inc.php to aside
+removed image slider from index.php
+Edited lay  
+removed login check from add to cart button added to checkout.php for lazy loading
+added https://github.com/josegonzalez/php-dotenv/ to parse .env
+added contact php 
+altered dbconnection mysql_connect with new mysql.connect to support oop style over proceedural 
+added auto-loading class and changed to nette robo autoloader
+added .htaccess instead of page unknown user gets redirected to search.php
+
